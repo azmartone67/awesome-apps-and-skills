@@ -48,6 +48,12 @@ _MCP servers, agent frameworks and plugins, plus agent memory, local model runti
 
 ## Agent Tools & Data
 
+- **[DC Hub](https://github.com/azmartone67/dchub-mcp-server)** <img align="absmiddle" alt="mcp-server" src="https://img.shields.io/badge/mcp--server-0969da?style=flat-square"><br>
+  Live data layer for data-center site selection; DCPI scores grid power across 300+ markets daily (94 MCP tools).<br>
+  🏷 `mcp` `data-centers` `energy` `site-selection`<br>
+  💰 freemium<br>
+  🔗 [mcp](https://dchub.cloud/mcp)
+
 - **[Firecrawl](https://www.firecrawl.dev/)** <img align="absmiddle" alt="web-tool" src="https://img.shields.io/badge/web--tool-4f46e5?style=flat-square"><br>
   Web data API that lets AI agents search, scrape, map and crawl the web. The core is open source.<br>
   🏷 `web-scraping` `ai-agents` `api` `crawler`<br>
